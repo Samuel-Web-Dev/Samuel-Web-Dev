@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samuel-Web-Dev
 - 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ...
 - samuelbakaretaiwo@gmail.com Call/WhatsApp: +2347048653703
