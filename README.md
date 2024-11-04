@@ -2,7 +2,7 @@
 - 👀 A Full stack Developer
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ...
-- samuelbakaretaiwo@gmail.com Call/WhatsApp: +2347048653703
+- samlekchris@gmail.com Call/WhatsApp: +2347048653703
 
 
 
